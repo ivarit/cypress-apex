@@ -1,0 +1,29 @@
+{
+  "name": "cypress-apex",
+  "version": "1.0.0",
+  "description": "Testing Oracle Apex applications with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivarit/cypress-apex.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "oracle",
+    "apex",
+    "apex"
+  ],
+  "author": "ivarit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivarit/cypress-apex/issues"
+  },
+  "homepage": "https://github.com/ivarit/cypress-apex#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
